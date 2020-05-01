@@ -1,1 +1,1 @@
-# 30daysofcode-Day-1
+https://nusaybah516.github.io/30daysofcode-Day-1/
