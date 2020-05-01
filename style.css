@@ -34,3 +34,44 @@ footer{
   75%{background-color:powderblue;}
   100% {background-color: turquoise;}
 }
+
+@media only screen and (max-width:420px){
+    h1{
+        width: 300px;
+        font-size: 80px;
+        text-align: center;
+    }
+}
+
+
+@media only screen and (max-width:420px){
+    h2{
+        width: 300px;
+        font-size: 80px;
+        text-align: center;
+    }
+}
+
+
+@media only screen and (max-width:420px){
+    .mydiv{
+        width: 300px;
+        font-size: 80px;
+        text-align: center;
+    }
+}
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: portrait) {
+}
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: landscape) {
+
+}
